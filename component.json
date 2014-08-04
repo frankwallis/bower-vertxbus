@@ -18,7 +18,5 @@
     "api/types.d.ts",
     "api/event_bus.d.ts",
     "api/bridge.d.ts"
-  ],
-  "repository": "frankwallis/bower-vertxbus",
-  "version": "master"
+  ]
 }
