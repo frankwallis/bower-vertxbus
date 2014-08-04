@@ -3,8 +3,9 @@
   "dependencies": {
     "a-x/sockjs": "*"
   },
-  "main": "vertxbus.js",
+  "main": "index.js",
   "scripts": [
+    "index.js",
     "vertxbus.js"
   ],
   "styles": [
@@ -14,7 +15,9 @@
     
   ],
   "files": [
-    
+    "api/types.d.ts",
+    "api/event_bus.d.ts"
+    "api/bridge.d.ts"
   ],
   "repository": "frankwallis/bower-vertxbus",
   "version": "master"
