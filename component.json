@@ -1,0 +1,21 @@
+{
+  "name": "vertxbus",
+  "dependencies": {
+    "a-x/sockjs": "master"
+  },
+  "main": "src/index.js",
+  "scripts": [
+    "src/vertxbus.js"
+  ],
+  "styles": [
+    
+  ],
+  "templates": [
+    
+  ],
+  "files": [
+    
+  ],
+  "repository": "frankwallis/bower-vertxbus",
+  "version": "master"
+}
