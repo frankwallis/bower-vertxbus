@@ -1,7 +1,7 @@
 {
-  "name": "vertxbus",
+  "name": "vertx-bridge",
   "dependencies": {
-    "a-x/sockjs": "master"
+    "a-x/sockjs": "*"
   },
   "main": "vertxbus.js",
   "scripts": [
