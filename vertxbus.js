@@ -16,6 +16,9 @@
 
 var vertx = vertx || {};
 
+if (module)
+  module.exports = vertx;
+
 !function(factory) {
   if (typeof define === "function" && define.amd) {
     // Expose as an AMD module with SockJS dependency.
