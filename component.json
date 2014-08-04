@@ -1,5 +1,5 @@
 {
-  "name": "bower-vertxbus",
+  "name": "vertx-bridge",
   "dependencies": {
     "a-x/sockjs": "*"
   },
