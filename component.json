@@ -4,6 +4,7 @@
     "a-x/sockjs": "*"
   },
   "main": "index.js",
+  "typescript": "api/bridge.d.ts",
   "scripts": [
     "index.js",
     "vertxbus.js"
